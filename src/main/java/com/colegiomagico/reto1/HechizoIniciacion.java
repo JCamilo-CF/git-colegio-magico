@@ -6,7 +6,7 @@ package com.colegiomagico.reto1;
 public class HechizoIniciacion {
 
     public static String invocar() {
-        return "El nombre es Juan Camilo y mi profesor es Daniel Urazan" ; // TODO: Cambia esto
+        return "El nombre es Juan Camilo y mi profesor es Juan José" ; // TODO: Cambia esto
     }
 
     public static void main(String[] args) {
